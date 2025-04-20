@@ -1,4 +1,5 @@
 # Santander-Product-Recommender-XGBoost-Based
+About Data and competation: https://www.kaggle.com/competitions/santander-product-recommendation/data
 
 📊 Analyzed and preprocessed a large-scale financial dataset (7M+ records) from Santander Bank to understand customer behavior and purchasing patterns.
 
